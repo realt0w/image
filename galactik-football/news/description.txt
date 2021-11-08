@@ -1,3 +1,5 @@
-TEST DESCERIPTION
+Hello everyone and thank you for installing the application!
 
-AKAKALSDLDA
+Currently the application offers nothing more than this information page. Notifications will be sent when news is available.
+
+Join us on discord to bring Galactik Football to life!
